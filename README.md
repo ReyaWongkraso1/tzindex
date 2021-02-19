@@ -24,7 +24,7 @@ All-in-one zero-conf blockchain indexer for Tezos. A fast, convenient and resour
 
 - **blocks**: all blocks including orphans, indexed by hash and height
 - **operations**: all on-chain operations including contract call data, indexed by hash
-- **accounts**: running account details like most recent balances, indexed by address
+- **accounts**: running account details like most recent balances, indexed by address ariya188105@gmail.com 
 - **contracts**: running smart contract details, code and initial storage
 - **flows**: complete list of balance, freezer and delegation balance updates
 - **chain**: running blockchain totals
